@@ -10,6 +10,8 @@
 //  the file LICENCE.GPL
 //=============================================================================
 
+//Hello world
+
 #include "utils.h"
 #include "score.h"
 #include "chord.h"
